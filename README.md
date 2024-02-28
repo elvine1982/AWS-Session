@@ -8,12 +8,12 @@ git clone https://github.com/verma-kunal/AWS-Session.git
 ```
 2. Setup the following environment variables - `(.env)` file
 ```
-DOMAIN= ""
+DOMAIN= "localhost3000"
 PORT=3000
 STATIC_DIR="./client"
 
-PUBLISHABLE_KEY=""
-SECRET_KEY=""
+PUBLISHABLE_KEY="pk_test_51OoZrSLyfkSfOWvLdKmssI3WcC71sHdDnb3lr8BpJodPgIyZSlPHNx3Eis5S45eORHlkvSpnJZb0jZMKGrOvl6C200h6H4iSe8"
+SECRET_KEY="sk_test_51OoZrSLyfkSfOWvLB6jyBvFevajUSTi1Zicg13NL20ei3N8GAX3djehTHOAEhLlXOIYosKSfIGpqQIrKEdv1xT7100gGwbe22c"
 ```
 3. Initialise and start the project
 ```
