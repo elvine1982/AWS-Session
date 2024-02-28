@@ -17,7 +17,7 @@ SECRET_KEY="sk_test_51OoZrSLyfkSfOWvLB6jyBvFevajUSTi1Zicg13NL20ei3N8GAX3djehTHOA
 ```
 3. Initialise and start the project
 ```
-npm install
+npm install or sudo apt install npm
 npm run start
 ```
 
